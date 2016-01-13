@@ -2,6 +2,8 @@
 This is a sample repository. 
 
 # Your name below this line 
-Deepak KC
+Veli-Pekka Anttonen
 
+----------------------------
+I made the change with Notepad++.
 
